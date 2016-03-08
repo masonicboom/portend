@@ -1,0 +1,1 @@
+Package portend normalizes CR (old Mac) and CRLF (DOS) line endings to LF (UNIX).
